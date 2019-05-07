@@ -21,7 +21,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     Palabras palabra1, palabra2, palabra3, palabra4, palabra5, palabra6, palabra7, palabra8, palabra9, palabra10;
     Palabras pr;
     char[] letra;
-    int c, cn, cl ,k;
+    int c, cn, cl;
     ImageIcon i1, i2, i3, i4, i5, i6, i7, i8, i9, i10, i11;
 
     public VentanaPrincipal() {
